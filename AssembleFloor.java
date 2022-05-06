@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class AssembleFloor {
 	public static void main(String args[]) {
-		//@SuppressWarnings("resource")
+		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the total number floors in the building : ");
 		int t = sc.nextInt();
